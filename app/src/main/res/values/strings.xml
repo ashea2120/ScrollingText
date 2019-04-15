@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Plain Text and the Power User Fallacy</string>
+    <string name="article_subtitle">Read the title.</string>
+    <string name="article_text">Plain text has, for whatever reasons, the reputation of being something for the techie. Many people see plain text as something only someone with a lot of computer chops can get the most out of (whatever that means).
+\n\n
+That’s a notion that I’ve long disagreed with.
+\n\n
+I believe that anyone can use plain text to work and to stay organized. I hope that this site helps prove that point.
+\n\n
+But among some people who live and work in plain text, there seems to be a notion that everyone needs to use complex, high-powered tools to get things done. That you’re not doing it right unless you’re using the Vim editor or Emacs with org-mode. That if Pandoc isn’t part of your toolkit you shouldn’t be working in plain text. That unless you’re doing and using exactly what they are, you’re not using plain text to its full potential.
+\n\n
+That falls under the umbrella of what I call the power user fallacy. The belief that what you do and what you use is what everyone should do and use.
+\n\n
+It doesn’t work that way.
+\n\n
+The power user fallacy doesn’t take into account that we’re all different. That what we need to do and the way in which we do if varies from person to person. That what’s a good fit for one person might not be a good fit for someone else.
+        \n\n
+        For more deets: https://plaintextproject.online/2019/04/03/fallacy.html
+    </string>
+
+</resources>
